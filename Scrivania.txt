@@ -1,6 +1,6 @@
 1. Inserisci immagini di riferimento
 2. inizio modellazione gamba
-3. fine modellazione gamba
-4. copia gambe
-5. inizio ripiano
-6. fine ripiano
+3. variazione gamba
+4. fine gamba
+5. modellazione cassetto 
+6. modellazione ripano 

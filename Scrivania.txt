@@ -1,3 +1,4 @@
 1. Inserisci immagini di riferimento
 2. inizio modellazione gamba
 3. variazione gamba
+4. fine gamba
